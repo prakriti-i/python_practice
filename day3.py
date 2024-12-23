@@ -12,3 +12,4 @@ here is the demo
 """
 print("This is the demo for \"enclosing inside double quote\" " )
 print("Use \"something\" for enclosing inside double quote")
+print("This", "is", "to", "use", "separator", "parameter", sep="-")
