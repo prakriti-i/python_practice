@@ -10,6 +10,10 @@ you can also write comment in triple double quote
 this will also work 
 here is the demo
 """
+
+# to comment a line, shortcut key: ctrl+/ 
+
+
 print("This is the demo for \"enclosing inside double quote\" " )
 print("Use \"something\" for enclosing inside double quote")
 print("This", "is", "to", "use", "separator", "parameter", sep="-")
